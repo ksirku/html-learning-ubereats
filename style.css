@@ -1,0 +1,148 @@
+.bag {
+    padding-right: 40px;
+    margin-left: 0;
+}
+
+.enter {
+    margin-right: 0;
+    font-size: 12px;
+    padding: 10px 20px;
+}
+
+
+footer {
+    background-color: #262626;
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+}
+
+select {
+    border: 0;
+    color: white;
+    border-radius: 0;
+    background:  #4d4d4d;
+    border-radius: 0%;
+    -webkit-appearance: none;
+    
+    margin-left: 55px;
+    width: 140px;
+    height: 30px;
+    padding-left: 10px;
+  }
+
+  .text-white {
+    list-style-type:none;
+  }
+
+  .row {
+      margin-top: 30px;
+  }
+  
+  li {
+      padding: 15px;;
+  }
+
+  .downloads {
+      
+     
+      text-align: center;
+  }
+
+  .downloads > img {
+    width: 200px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+  }
+
+  .terms {
+    font-family: Roboto, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+  }
+
+  .wall {
+      background-image: url("d42ea9bbf7aff297c2e1eb5e5f3b7fa6-w1080-87.png");
+      
+      background-size: 100%;
+      padding: 70px;
+      padding-bottom: 130px;
+      
+  }
+
+  .wall-description {
+      
+    display: inline-block;
+      font-family: Roboto, sans-serif;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      background: white;
+      margin-top: 50px;
+      margin-left: 50px;
+      padding: 20px;
+  }
+
+  .pushkin > h1{
+      
+    display: inline-block;
+
+  }
+
+  .pushkin {
+    display: inline-block;
+    padding: 20px;
+    
+  }
+
+  .time {
+      margin-top: 40px;
+      font-family: Roboto, sans-serif;
+      font-size: 12px;
+      border-radius: 20px/20px;
+      background: black;
+      color: white;
+      padding: 10px 20px;
+      font-weight: normal;
+  }
+
+  .price {
+      margin-top: 45px;
+      font-weight: normal;
+      
+     
+  }
+
+  .menu-links > a {
+      color: rgb(126, 126, 126);
+    padding: 0 35px;
+  }
+
+  .menu-links > a:first-child {
+      color: rgb(56, 197, 56);
+  }
+ 
+  a {
+      color: white;
+  }
+
+  .menu-links {
+      padding: 20px 40px;
+  }
+
+  .container h4 {
+        padding-top: 40px;
+        padding-bottom: 25px;
+  }
+
+  nav {
+    width: 100%;
+    
+  }
+
+  .dishies {
+      margin-right: 10px;
+      
+  }
